@@ -2,15 +2,14 @@
 layout: default
 ---
 
-# **Fangzhou Ye**
+# **Phoenix Ye**
 ### Backend Engineer • Real-Time Systems • Creator Technology • Live Streaming Infrastructure
-Backend Engineer · Distributed Systems · Cloud Infrastructure  
 
 📍 Jersey City, NJ  
 📧 **fy393@nyu.edu**  
 💻 **GitHub:** [github.com/phoenix5980](https://github.com/phoenix5980)  
 📄 **Resume:** [resume.pdf](resume.pdf)  
-🎮 **Bilibili (115K followers):** https://space.bilibili.com/255152
+🎮 **Bilibili (115K followers):** [https://space.bilibili.com/255152](https://space.bilibili.com/255152)  
 
 ---
 
@@ -30,13 +29,11 @@ I am currently seeking roles in **Backend / Infra / Platform Engineering**.
 
 ## 🎮 Creator Experience
 
-### **Gaming Content Creator — Bilibili (110,000+ followers)**
+### **Gaming Content Creator — Bilibili (115,000+ followers)**
 - Produce long‑form and live gaming content, giving firsthand insight into creator–viewer latency, chat responsiveness, and real‑time engagement dynamics directly relevant to platforms like Twitch.
 - Experience with stream overlay systems, bitrate tuning, encoder behavior, and troubleshooting end‑to‑end real‑time video pipelines.
 - Familiarity with community tooling, moderation behavior, and event‑driven interaction loops.
 
-**🌐 Bilibili Profile:** https://space.bilibili.com/255152  
-[![Bilibili followers](https://img.shields.io/endpoint?url=https://your-endpoint.example.com/api/bilibili-follower-count)](https://space.bilibili.com/255152)
 
 ---
 
