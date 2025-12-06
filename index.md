@@ -9,7 +9,8 @@ Backend Engineer · Distributed Systems · Cloud Infrastructure
 📍 Jersey City, NJ  
 📧 **fy393@nyu.edu**  
 💻 **GitHub:** [github.com/phoenix5980](https://github.com/phoenix5980)  
-📄 **Resume:** [resume.pdf](resume.pdf)
+📄 **Resume:** [resume.pdf](resume.pdf)  
+🎮 **Bilibili (115K followers):** https://space.bilibili.com/255152
 
 ---
 
@@ -73,8 +74,8 @@ Jun 2023 – Jul 2023
 
 ## 🔗 Links
 - 🐙 **GitHub:** https://github.com/phoenix5980  
-- 📄 **Resume:** [resume.pdf](resume.pdf)  
-- 🎮 **Bilibili:** [![Bilibili followers](https://img.shields.io/endpoint?url=https://phoenix5980.github.io/bilibili-fans.json)](https://space.bilibili.com/255152)
+- 🎮 **Bilibili (115K followers):** [https://space.bilibili.com/255152](https://space.bilibili.com/255152)  
+- 📄 **Resume:** [resume.pdf](resume.pdf)
 
 ---
 © 2025 · Built with GitHub Pages (Minimal Theme)
