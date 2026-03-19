@@ -7,10 +7,10 @@ layout: default
 
 📍 China  
 📧 **phoenix5980@gmail.com**  
-💻 **GitHub:** [github.com/phoenix5980](https://github.com/phoenix5980) 
-🌐 **Website:** https://phoenix5980.github.io/cindertide-studio-site/ 
-📄 **Resume:** [Resume.pdf](Resume.pdf)  
-🎮 **Bilibili (115K followers):** [https://space.bilibili.com/255152](https://space.bilibili.com/255152)  
+💻 **GitHub:** [github.com/phoenix5980](https://github.com/phoenix5980)  
+🌐 **Website:** [phoenix5980.github.io/cindertide-studio-site](https://phoenix5980.github.io/cindertide-studio-site/)  
+📄 **Resume:** [resume.pdf](resume.pdf)  
+🎮 **Bilibili (115K followers):** [space.bilibili.com/255152](https://space.bilibili.com/255152)  
 
 ---
 
@@ -79,9 +79,9 @@ Oct 2022 – Mar 2024
 
 ## 🔗 Links
 - 🐙 **GitHub:** https://github.com/phoenix5980
-- 🌐 **Website:** https://phoenix5980.github.io/cindertide-studio-site/
-- 📄 **Resume:** [Resume.pdf](Resume.pdf)
-- 🎮 **Bilibili (115K followers):** [https://space.bilibili.com/255152](https://space.bilibili.com/255152)
+- 🌐 **Website:** [phoenix5980.github.io/cindertide-studio-site](https://phoenix5980.github.io/cindertide-studio-site/)
+- 📄 **Resume:** [resume.pdf](resume.pdf)
+- 🎮 **Bilibili (115K followers):** [space.bilibili.com/255152](https://space.bilibili.com/255152)
 
 ---
 © 2026 · Built with GitHub Pages (Minimal Theme)
