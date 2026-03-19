@@ -7,8 +7,9 @@ layout: default
 
 📍 China  
 📧 **phoenix5980@gmail.com**  
-💻 **GitHub:** [github.com/phoenix5980](https://github.com/phoenix5980)  
-📄 **Resume:** [resume.pdf](resume.pdf)  
+💻 **GitHub:** [github.com/phoenix5980](https://github.com/phoenix5980) 
+🌐 **Website:** https://phoenix5980.github.io/cindertide-studio-site/ 
+📄 **Resume:** [Resume.pdf](Resume.pdf)  
 🎮 **Bilibili (115K followers):** [https://space.bilibili.com/255152](https://space.bilibili.com/255152)  
 
 ---
@@ -70,8 +71,8 @@ Jun 2023 – Jul 2023
 
 ## 🔗 Links
 - 🐙 **GitHub:** https://github.com/phoenix5980
-- 🌐 **Website:** https://phoenix5980.github.io/
-- 📄 **Resume:** [resume.pdf](resume.pdf)
+- 🌐 **Website:** https://phoenix5980.github.io/cindertide-studio-site/
+- 📄 **Resume:** [Resume.pdf](Resume.pdf)
 - 🎮 **Bilibili (115K followers):** [https://space.bilibili.com/255152](https://space.bilibili.com/255152)
 
 ---
