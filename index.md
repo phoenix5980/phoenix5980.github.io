@@ -61,11 +61,19 @@ My current focus includes **AI copilots, RAG-based knowledge systems, natural-la
 
 ## 🧪 Experience
 
-### **China Telecom — Engineering Intern**  
-Jun 2023 – Jul 2023  
-- Worked on networking diagnostics, routing behavior analysis, and infrastructure-related system reliability tasks.
-- Built Python/Shell automation for log parsing, service checks, and operational analysis.
-- Developed an engineering foundation in large-scale systems, observability, and reliability-oriented thinking.
+### **CinderTide Studio — Co-founder**  
+Apr 2025 – Present  
+- Designing and building AI application systems based on LLMs, focusing on real-world business workflows and AI copilot use cases.
+- Developing modular architectures integrating RAG, prompt engineering, and tool-calling mechanisms.
+- Leading backend development and system design for AI services, including data pipelines and model orchestration.
+- Translating business requirements into deployable AI solutions and defining product direction.
+
+### **Zeal Labs — Chief Technology Officer**  
+Oct 2022 – Mar 2024  
+- Led company-wide technology strategy covering backend systems, data infrastructure, and platform architecture.
+- Designed and implemented scalable backend systems supporting business operations and analytics.
+- Managed cross-functional technical teams and coordinated engineering resources across projects.
+- Evaluated technical approaches for business initiatives and guided product and infrastructure decisions.
 
 ---
 
